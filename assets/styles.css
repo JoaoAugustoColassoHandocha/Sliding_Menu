@@ -60,9 +60,12 @@ a:hover
 
 }
 
-.menu li{
-  height: 40px;
-  width: 100%;
+.menu li
+{
+
+    height: 40px;
+    width: 100%;
+
 }
 
 .menu li .submenu{
