@@ -1,6 +1,11 @@
-body{
-  font-family: Arial, sans-serif;
-  font-size: 16px;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body
+{
+
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+
 }
   
 /*estilo do link*/
