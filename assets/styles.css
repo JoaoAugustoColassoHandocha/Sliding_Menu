@@ -92,8 +92,12 @@ a:hover
 
 }
 
-.menu li:hover .submenu{
-  left: 182px;
-  opacity: 1;
-  width: 276px;
+.menu li:hover.submenu
+
+{
+
+    left: 182px;
+    opacity: 1;
+    width: 276px;
+
 }
