@@ -90,7 +90,7 @@ a:hover
 
 }
 
-.menu li:hover.submenu
+.menu li:hover .submenu
 {
 
     left: 182px;
