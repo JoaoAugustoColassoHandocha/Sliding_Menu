@@ -9,17 +9,20 @@ body
 }
   
 /*estilo do link*/
-a{
-  position: absolute;
-  z-index: 10;
-  font-weight: bold;
-  color: #fff;
-  font-size: 1.4em;
-  padding-left: 22px;
-  display: block;
-  width: 160px;
-  height: 40px;
-  text-decoration: none;
+a
+{
+
+    position: absolute;
+    z-index: 10;
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.4em;
+    padding-left: 22px;
+    display: block;
+    width: 160px;
+    height: 40px;
+    text-decoration: none;
+
 }
   
 /*ao passar o mouse sobre nosso link*/
