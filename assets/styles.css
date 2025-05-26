@@ -26,9 +26,12 @@ a
 }
   
 /*ao passar o mouse sobre nosso link*/
-a:hover{
-  color: yellowgreen;
-  border-right: 2px solid #fff;
+a:hover
+{
+
+    color: yellowgreen;
+    border-right: 2px solid #fff;
+
 }
 
 .menu{
