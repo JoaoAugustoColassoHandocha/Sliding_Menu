@@ -34,12 +34,15 @@ a:hover
 
 }
 
-.menu{
-  position: relative;
-  list-style: none;
-  width: 182px;
-  padding: 40px 0;
-  margin: auto;
+.menu
+{
+
+    position: relative;
+    list-style: none;
+    width: 182px;
+    padding: 40px 0;
+    margin: auto;
+
 }
 
 .menu:before {
